@@ -1,7 +1,7 @@
 ### Hi there, I'm Jimin 👋
 
-🌱 I’m currently learning Java & Spring framework at KH Academy.
-😄 Now, I'm studying Javascript & React!
+- 🌱 I’m currently learning Java & Spring framework at KH Academy.
+- 😄 Now, I'm studying Javascript & React!
 
 <!--
 **wnwlals13/wnwlals13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
