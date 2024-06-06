@@ -1,8 +1,8 @@
-### Hi there, I'm Jimin 👋
+### Hello👋 I'm JiminJoo. I'm Junior Frontend Developer
 
 - 👯 From 2021 to 2023, I worked as a web developer at NETAND Compnay.
 - 🌱 In former days, I learned Java and Spring framework at KH Academy.
-- 😄 Now, I'm studying Javascript & React!
+- 😄 Now, I'm studying Javascript & React & Typescript!
 
 <!--
 **wnwlals13/wnwlals13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
